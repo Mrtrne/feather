@@ -4163,6 +4163,12 @@
             "state" : "translated",
             "value" : "Wyłącz Liquid Glass"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "禁用液态玻璃"
+          }
         }
       }
     },
@@ -9515,6 +9521,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Merge Entitlements"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "合并授权"
           }
         }
       }
@@ -17393,6 +17405,12 @@
             "state" : "translated",
             "value" : "This option merges entitlements with the embedded entitlements from the app you're signing."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此选项会将授权与你所签名 App 内嵌的授权合并。"
+          }
         }
       }
     },
@@ -17450,7 +17468,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在签名后删除导入的应用来节省空间。"
+            "value" : "在签名后删除导入的 App 来节省空间。"
           }
         }
       }
